@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+""" Index """
 from . import app_views
 from flask import jsonify
 from models.amenity import Amenity
